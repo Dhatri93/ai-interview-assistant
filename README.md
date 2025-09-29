@@ -15,7 +15,6 @@ An AI-powered web app that helps candidates prepare for interviews by simulating
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, Vite, Ant Design
-- **Backend (optional):** Node.js / Python APIs
 - **AI/ML:** OpenAI / NLP Models (future scope)
 - **Version Control:** Git + GitHub
 
